@@ -1,10 +1,10 @@
-# Repositories List Backend
+# Repositories List Frontend
 
-[![MIT](https://img.shields.io/github/license/danilolutz/desafios-conceitos-node)](https://img.shields.io/github/license/danilolutz/desafios-conceitos-node)
+[![MIT](https://img.shields.io/github/license/danilolutz/desafios-conceitos-reactjs)](https://img.shields.io/github/license/danilolutz/desafios-conceitos-reactjs)
 
 ## :rocket: Overview
 
-First challenge of Rocketseat GoStack
+Second challenge of Rocketseat GoStack
 
 ## :sunglasses: Get Started
 
@@ -21,10 +21,10 @@ yarn
 To run the project just execute:
 
 ```bash
-yarn dev
+yarn start
 ```
 
-And access on <http://localhost:3333>
+And access on <http://localhost:3000>
 
 ### Testing the project
 
